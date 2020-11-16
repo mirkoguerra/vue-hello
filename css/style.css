@@ -1,0 +1,10 @@
+/* INIZIALIZZAZIONE */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* GENERAL */
+img {
+  width: 50vw;
+}
